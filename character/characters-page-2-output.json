@@ -1,0 +1,10 @@
+{
+  "characters": [
+    {
+      "id": 2,
+      "name": "Character Name 2",
+      "status": "Status 2",
+      "image": "Image URL 2"
+    }
+  ]
+}
